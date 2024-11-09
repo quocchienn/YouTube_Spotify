@@ -2,7 +2,7 @@
 #!desc=Quocchien
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/quocchienn/YouTube_Spotify/refs/heads/module/reject.txt,REJECT-NO-DROP
+RULE-SET,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/reject.txt,REJECT-NO-DROP
 RULE-SET,https://raw.githubusercontent.com/quocchienn/YouTube_Spotify/refs/heads/module/Rule.conf,REJECT-NO-DROP
 RULE-SET,https://raw.githubusercontent.com/quocchienn/YouTube_Spotify/refs/heads/module/Rewrite.conf,REJECT-NO-DROP
 RULE-SET,https://raw.githubusercontent.com/quocchienn/YouTube_Spotify/refs/heads/module/rule.conf,REJECT-NO-DROP
